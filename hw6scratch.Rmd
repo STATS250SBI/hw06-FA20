@@ -1,0 +1,31 @@
+---
+title: "HW6 Scratch Work"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+source("plotNorm.R")
+```
+
+Here are a few blank chunks for you to use. You can always hit the Insert button to the far right of the Knit button to make a new R chunk!
+
+```{r}
+
+```
+
+```{r}
+
+```
+
+```{r}
+
+```
+
+```{r}
+
+```
+
+```{r}
+
+```
